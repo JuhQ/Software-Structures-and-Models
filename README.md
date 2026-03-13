@@ -16,7 +16,7 @@
 ## Quick Rules
 
 - Attendance is mandatory (minimum 80%).
-- If attendance is too low, the project grade is 1.
+- If attendance is too low, the project grade is at maximum 1.
 - Midterm demo at the course midpoint (Week 4) is mandatory.
 - Final project submission and presentation are mandatory.
 - Classes start on the hour.
