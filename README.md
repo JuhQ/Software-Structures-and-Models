@@ -148,6 +148,7 @@ Final grade is based on overall project quality, teamwork process, and completed
 
 ### Minimum Requirements to Pass
 
+- Assignments submitted on time
 - Frontend, backend, and database are connected and functional
 - Attendance requirement (minimum 80%) is met
 - Mandatory midterm demo (Week 4) is completed
