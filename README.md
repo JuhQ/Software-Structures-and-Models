@@ -53,7 +53,7 @@ Do this week:
   - If MySQL, follow instructions https://github.com/JuhQ/Web-Programming-and-Data-Management/blob/main/Week9/database.md
 - Create GitHub repository and add team + teachers as collaborators
 - Bookmark and go through the CI/CD intro materials
-  - CI/CD course content: https://fullstackopen.com/en/part11
+  - CI/CD course content: https://courses.mooc.fi/org/uh-cs/courses/full-stack-open-continuous-integration
 - Time tracking sheet: https://docs.google.com/spreadsheets/d/1BM-cRwt8ZjfGlTmMNkl_oU6L9z8Va5L0LHiLaBsiMaM/edit?gid=0#gid=0
   - **MUST BE COPIED TO YOUR TEAM DRIVE, FILL IN EVERY DAY**
 
@@ -91,8 +91,8 @@ Focus:
 
 - Start CI/CD tasks from Full Stack Open Part 11
 - Midterm demo of current project progress
-  - CI/CD course content: https://fullstackopen.com/en/part11
-  - Certificate info: https://fullstackopen.com/en/part0/general_info#course-certificate
+  - CI/CD course content: https://courses.mooc.fi/org/uh-cs/courses/full-stack-open-continuous-integration
+  - Certificate info: https://courses.mooc.fi/org/uh-cs/courses/full-stack-open-continuous-integration/chapter-1
 
 Do this week:
 
