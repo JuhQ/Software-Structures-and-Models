@@ -25,7 +25,7 @@ Your report must include the following:
 ### 1. Team Workflow Choice
 
 - Name and describe the workflow you will use
-- Examples: feature branches, GitHub flow, simplified Git flow, trunk-based development
+- Examples: feature branches, your git workflow
 - Link to your GitHub repository
 
 ### 2. Branching Strategy
@@ -61,7 +61,6 @@ To pass this assignment:
 - the team agreement is realistic and usable
 - commit message guidelines are included
 - reasons for the chosen workflow are explained
-- the report is written in clear English
 
 ## Recommended Length
 
@@ -69,7 +68,7 @@ To pass this assignment:
 
 ## Submission
 
-Submit the report as a **PDF** to **OMA** by the deadline.
+Submit the report as a Google Drive link to **OMA** by the deadline.
 
 All team members are responsible for following the agreed workflow after submission.
 
