@@ -54,7 +54,7 @@ Add short bullets at least for each of the following, you can add more if releva
 
 ## Submission
 
-The Product Coordinator must submit the Product Vision + Feasibility Study as a **PDF** file in the **OMA** by the due deadline.
+The Product Coordinator must submit the Product Vision + Feasibility Study as a Google Docs link in the **OMA** by the due deadline.
 
 Recommended length: 1-2 pages.
 
